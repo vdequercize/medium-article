@@ -1,0 +1,60 @@
+.banner {
+  background-image: url("https://source.unsplash.com/random/1000x500");
+  background-size: cover;
+  padding: 200px;
+  color: white;
+  text-align: center;
+}
+
+.article {
+margin: 0 auto;
+width: 40%;
+padding: 20px;
+}
+
+.footer {
+  margin: 0 auto;
+  width: 40%;
+  font-size: x-large;
+}
+
+.list-inline > li {
+  display: inline-block;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+  color: rgb(73, 158, 187);
+}
+
+p {
+text-align: left;
+font-size: larger;
+color: #575F7D;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(33, 33, 116);
+}
+
+a :hover {
+  text-decoration: underline;
+  color: black;
+}
+
+div {
+  text-align: left;
+}
